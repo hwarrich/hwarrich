@@ -1,7 +1,12 @@
-![Header](https://github.com/hwarrich/hwarrich/blob/61a2217a99ae57a4665aecf67dfc1e15750bd1b2/binary_number_wallpaper_background_purple___blue_by_lovelymin_deh2x58-pre.jpg)
+### Hi there, I'm Hasham! 👋
 
-### Hi there 👋
+I am a computer science major at Amherst College, graduating in December 2023. I am interested in web/app development and other software engineering roles. 
+I am looking for exciting and challenging software engineering internships for Summer 2023. 
 
+Feel free to browse my repos and take a glance at my
+[LinkedIn profile](https://www.linkedin.com/in/hasham-warrich/).
+
+My most recent project: [A QD-TEM Analyzer](https://github.com/hwarrich/QD-TEM-Analyzer)
 <!--
 **hwarrich/hwarrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
