@@ -1,3 +1,5 @@
+![Header](https://github.com/hwarrich/hwarrich/blob/61a2217a99ae57a4665aecf67dfc1e15750bd1b2/binary_number_wallpaper_background_purple___blue_by_lovelymin_deh2x58-pre.jpg)
+
 ### Hi there 👋
 
 <!--
