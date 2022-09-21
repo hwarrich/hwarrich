@@ -1,7 +1,7 @@
 ### Hi there, I'm Hasham! 👋
 
 I am a computer science major at Amherst College, graduating in December 2023.
-I am looking for exciting and challenging software engineering internships for Summer 2023. 
+I am searching for exciting and challenging software engineering internships for Summer 2023. 
 
 Feel free to browse my repos and take a glance at my
 [LinkedIn profile](https://www.linkedin.com/in/hasham-warrich/).
