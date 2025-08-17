@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasham! 👋
 
-I love solving challenging problems by writing great code and am looking to apply to full-time software engineer roles nationwide. I am eager to join a company at the frontier of innovation that can help foster my skills and intellectual curiosity. I have previous experience at American Express building backends with Golang and Java. Prior to that I was a computer science major and TA at Amherst College. 
+I love solving challenging problems by writing great code and am looking to apply to full-time software engineer roles nationwide. I am eager to join a company at the frontier of innovation that can help foster my skills and intellectual curiosity. I have previous experience at American Express building backends with Golang and Java. Prior to that, I was a computer science major and TA at Amherst College. 
 
 My most recent project: [Url-Shortner](https://github.com/hwarrich/Url-Shortener)
 <!--
