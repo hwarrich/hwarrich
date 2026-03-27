@@ -1,6 +1,6 @@
 ### Hi there, I'm Hasham! 👋
 
-I love solving challenging problems by writing great code! I have previous experience at American Express building backends with Golang and Java for transaction routing and processing. Prior to that, I was a computer science major and CS TA at Amherst College. 
+I love solving challenging problems by writing great code! I have previous experience at American Express building backends with Golang for transaction routing and processing. Prior to that, I was a computer science major and CS TA at Amherst College. 
 
 <!--
 **hwarrich/hwarrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
